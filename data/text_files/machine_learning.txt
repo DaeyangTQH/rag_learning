@@ -1,0 +1,10 @@
+
+Machine learning is a field of computer science that focuses on building systems
+that can learn from data and improve their performance over time without being
+explicitly programmed.
+
+It is a core subfield of artificial intelligence and is commonly used in applications
+such as recommendation systems, image recognition, speech recognition, and fraud detection.
+
+Machine learning algorithms are typically categorized into supervised learning,
+unsupervised learning, and reinforcement learning.
